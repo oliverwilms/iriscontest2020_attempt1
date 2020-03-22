@@ -1,19 +1,13 @@
-## objectscript-adventofcode-template
-This is a template to craft solutions for [AdventofCode](https://adventofcode.com/2019) in InterSystems ObjectScript.
-
-Use this template in Github and have a ready-to-use template repo which lets you develop ObjectScript solutions for AdventOfCode puzzles.
-
 ## Prerequisites
 This needs to have git and docker installed.
-
-Use the Github template (green button) and create your own repo
 
 ## Installation 
 
 Clone/git pull the repo into any local directory
 
 ```
-$ git clone https://github.com/your-repository.git
+$ git clone https://github.com/oliverwilms/iriscontest2020
+
 ```
 
 Open the terminal in this directory and run:
